@@ -1,0 +1,17 @@
+table{
+    border-collapse: collapse;
+    
+}
+
+th , td , tr {
+    border: 1px dotted;
+}
+
+img{
+    width:400px;
+    height: 200px;
+    padding: 10px;
+}
+a{
+    padding-left: 10px;
+}

@@ -1,0 +1,21 @@
+body {
+  width: 700px;
+}
+fieldset {
+  background-color: blanchedalmond;
+  width: 400px;
+}
+input {
+  margin: 10px;
+}
+label {
+  margin-left: 50px;
+}
+
+#City1 {
+  margin-left: 130px;
+}
+
+#subs{
+    align-items: center;
+}
